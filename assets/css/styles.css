@@ -248,6 +248,7 @@ img {
   background-color: #fff;
   color: var(--first-color);
   border: 2px solid var(--first-color);
+  margin-bottom: var(--mb-2);
 }
 
 .button--white:hover {
@@ -701,3 +702,4 @@ img {
     width: 450px;
   }
 }
+
